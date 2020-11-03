@@ -17,7 +17,7 @@ To store your passwords
 
 
 
-DT Cleaner:
+(Beta version) DT Cleaner:
 This is to clean files and folders on the desktop based on file extensions.
 
 Example: all .TXT files will be placed in TXT folder
